@@ -1,6 +1,15 @@
 # faceapp
 
-A new Flutter project.
+<h1>Flutter APP</h1>
+
+<p>Test create</p>
+<ul>
+  <li>Login page</li>
+  <li>List Users page (Show data by Card)</li>
+  <li>Detail User</li>
+  <li>Call data by API</li>
+</ul>  
+
 
 ## Getting Started
 
